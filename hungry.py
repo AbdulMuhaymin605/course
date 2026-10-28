@@ -8,3 +8,4 @@ else:
     if thirsty =='yes':
         print('soda')
         print('water')
+        print('pepsi')
